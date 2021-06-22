@@ -4,7 +4,7 @@
 <p>O portifólio a seguir, fornece um modelo minimalista para a exibição de um currículo. Contendo uma apresentação informal do candidato, destacando sua experiência, formação e 
 conhecimento adquirido. 
 </p>
-<p>A página foi criada, utilizando apenas o framework <b>Bulma</b> e ícones fornecidos pelo <b>Font Awesome Icons, para sua personalização.</b> Ressalto também que a página segue
+<p>A página foi criada, utilizando apenas o framework <b>Bulma</b> e ícones fornecidos pelo <b>Font Awesome Icons,</b> para sua personalização. Ressalto também que a página segue
 um padrão responsivo, tornado seu acesso livre para diversas plataformas.
 </p>
 
